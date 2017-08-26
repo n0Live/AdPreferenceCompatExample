@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AdPreferenceCompatExample</string>
+    <string name="action_settings">Settings</string>
+    <string name="settings_1">First group</string>
+    <string name="settings_2">Last group</string>
+    <string name="ads">Ads fix size group</string>
+    <string name="ads2">Ads dyn size group</string>
+    <string name="checkbox_pref_title">Checkbox</string>
+
+    <string name="ADMOB_APP_ID">ca-app-pub-5387896205631431~9716856279</string>
+    <string name="ADMOB_AD_UNIT_ID_1">ca-app-pub-5387896205631431/4603473859</string>
+    <string name="ADMOB_AD_UNIT_ID_2">ca-app-pub-5387896205631431/2209723730</string>
+
+</resources>

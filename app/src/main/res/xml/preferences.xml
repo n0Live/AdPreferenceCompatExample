@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="@string/settings_1">
+        <CheckBoxPreference
+            android:title="@string/checkbox_pref_title"/>
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/ads">
+        <com.kry.adpreferencecompatexample.AdPreferenceFixedSize
+            android:layout="@layout/ad_preference"/>
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/ads2">
+        <com.kry.adpreferencecompatexample.AdPreferenceDynamicSize/>
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/settings_2">
+        <CheckBoxPreference
+            android:title="@string/checkbox_pref_title"/>
+    </PreferenceCategory>
+
+</PreferenceScreen>
